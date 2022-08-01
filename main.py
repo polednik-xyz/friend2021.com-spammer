@@ -5,7 +5,6 @@ url = "https://api.truefalse.site/d20/addentry"
 data = {
 "key": "1",
 "name": "", ## username
-"name1": "", ## name of the quizer
 "quizid": "", ##quiz id in url
 "score": "20", ## quiz score cannot go above 20
 }
