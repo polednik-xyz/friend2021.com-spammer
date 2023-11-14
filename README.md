@@ -8,4 +8,4 @@ I HAVE ONLY TRIED IT ON 2022 Best Friend Tag Challenge
 ⚠⚠⚠I am not responsible for any damages this software may cause. This was made for personal education.⚠⚠⚠
 
 --------------------------------------------------------------------------------------------------------------------
-this project isnt maintained anymore.
+this project isnt maintained anymore, any issues will be closed.
